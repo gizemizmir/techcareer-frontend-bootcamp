@@ -1,6 +1,8 @@
 # Techcareer.net Frontend Bootcamp Bitirme Projesi
 
-Techcareer.net'in düzenlediği frontend bootcamp bitirme projesi kapsamında takımımla yapmış olduğumuz Travel websitesidir.
+EN - It is the Travel website that we have made with my team as part of the frontend bootcamp graduation project organized by Techcareer.net.
+
+TR - Techcareer.net'in düzenlediği frontend bootcamp bitirme projesi kapsamında takımımla yapmış olduğumuz Travel websitesidir.
 
 ## Teknolojiler
 
